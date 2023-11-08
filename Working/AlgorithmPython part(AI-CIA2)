@@ -1,0 +1,16 @@
+Working/Algorithm for the Python Code
+Step1:
+Take input from the user for the number of split words to be entered.
+Step2:
+Get the inputs.
+Step3:
+Using a user-defined function and for loops check for the last two letters and the first two letters of any element matches.
+Step4:
+If it matches take the remaining part of the second element and add it to the first word.
+Step5:
+Now remove the joined element accordingly.
+Step6:
+Do all these steps in a recursive manner by calling the function recursively.
+Step7:
+Print the final output.
+#Here the input part can be removed and the commented list part can be used to create a pre-defined input based working.
